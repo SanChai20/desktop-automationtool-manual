@@ -1,5 +1,7 @@
 # desktop-automationtool-manual
-[TOC]
+
+
+
 
 # Jee Jee Automation Tool User Manual
 
@@ -17,7 +19,7 @@
 
 1. Please **click the green icon within the red box in the screen-shot below**
 
-   ![](F:\github-projects\JeeJee_ManualMarkdownFiles\JeeJee\1.png)
+   ![](https://github.com/SanChai20/desktop-automationtool-manual/blob/main/dont_care/1.png)
 
 2. Then **move the mouse cursor to the desktop window to be captured** . The window to be captured will be covered with a light green area to remind you which window is selected.
 
