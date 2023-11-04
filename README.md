@@ -19,7 +19,7 @@
 
 1. Please **click the green icon within the red box in the screen-shot below**
 
-   [](https://github.com/SanChai20/desktop-automationtool-manual/blob/main/dont_care/1.png)
+   ![](https://github.com/SanChai20/desktop-automationtool-manual/blob/fed042c1bb465272da375019f7015c108dcdc9c3/dont_care/1.png)
 
 2. Then **move the mouse cursor to the desktop window to be captured** . The window to be captured will be covered with a light green area to remind you which window is selected.
 
@@ -33,19 +33,19 @@
 
    - Click red box to select matching image which has been captured and saved in advance
 
-     ![](F:\github-projects\JeeJee_ManualMarkdownFiles\JeeJee\2.png)
+     ![](https://github.com/SanChai20/desktop-automationtool-manual/blob/fed042c1bb465272da375019f7015c108dcdc9c3/dont_care/2.png)
 
    - Click red box to select mouse click event
 
-     ![](F:\github-projects\JeeJee_ManualMarkdownFiles\JeeJee\3.png)
+     ![](https://github.com/SanChai20/desktop-automationtool-manual/blob/fed042c1bb465272da375019f7015c108dcdc9c3/dont_care/3.png)
 
    - Click red box to select and save click location on image
 
-     ![](F:\github-projects\JeeJee_ManualMarkdownFiles\JeeJee\4.png)
+     ![](https://github.com/SanChai20/desktop-automationtool-manual/blob/fed042c1bb465272da375019f7015c108dcdc9c3/dont_care/4.png)
 
    - Click red box to give suitable time in seconds
 
-     ![](F:\github-projects\JeeJee_ManualMarkdownFiles\JeeJee\5.png)
+     ![](https://github.com/SanChai20/desktop-automationtool-manual/blob/fed042c1bb465272da375019f7015c108dcdc9c3/dont_care/5.png)
 
 3. Click ![](F:\github-projects\JeeJee_ManualMarkdownFiles\JeeJee\JeeJee0822\add.svg) to add new command and repeat step 2 to configure all rest commands
 
